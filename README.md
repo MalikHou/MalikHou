@@ -2,8 +2,8 @@ hi, i'm Malik! Focus on infrastructure and distributed storage systems. Currentl
 
 
   <img align="right" alt="GIF" src="https://github.com/MalikHou/MalikHou/blob/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](malikhou01@gmail.com) :)
+
+- 💼 if you have anything to discuss. do reach, [email](malikhou01@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
