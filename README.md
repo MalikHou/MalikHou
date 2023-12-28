@@ -1,7 +1,7 @@
 hi, i'm Malik! Focus on infrastructure and distributed storage systems. Currently working on feature engineering storage for a cross-border enterprise.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/MalikHou/MalikHou/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](malikhou01@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
